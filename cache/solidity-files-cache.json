@@ -1,0 +1,215 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/pc/Desktop/smart-contracts/contracts/CreateContracts.sol": {
+      "lastModificationDate": 1690099194642,
+      "contentHash": "3750db6012ba13ef335f6a227a2e3455",
+      "sourceName": "contracts/CreateContracts.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "UniblokContract"
+      ]
+    },
+    "/home/pc/Desktop/smart-contracts/contracts/certificate.sol": {
+      "lastModificationDate": 1690099042761,
+      "contentHash": "eae4be31227f4468b5cbf2aedf0b2660",
+      "sourceName": "contracts/certificate.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "GenerateCertificate"
+      ]
+    },
+    "/home/pc/Desktop/smart-contracts/contracts/certificate2.sol": {
+      "lastModificationDate": 1690099167927,
+      "contentHash": "db5a8073be36bd53bbaf9926e84b80ac",
+      "sourceName": "contracts/certificate2.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "GenerateCertificate"
+      ]
+    },
+    "/home/pc/Desktop/smart-contracts/contracts/deleteKeyWord.sol": {
+      "lastModificationDate": 1690099125625,
+      "contentHash": "d165e67267ec6ce6da307aeb33b7346a",
+      "sourceName": "contracts/deleteKeyWord.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.15"
+      ],
+      "artifacts": [
+        "test"
+      ]
+    },
+    "/home/pc/Desktop/smart-contracts/contracts/emoticon.sol": {
+      "lastModificationDate": 1690099073088,
+      "contentHash": "bca772db9a6a9e14a1b8160efa706f6b",
+      "sourceName": "contracts/emoticon.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "emoticon"
+      ]
+    },
+    "/home/pc/Desktop/smart-contracts/contracts/stringConcat.sol": {
+      "lastModificationDate": 1690099091115,
+      "contentHash": "bca772db9a6a9e14a1b8160efa706f6b",
+      "sourceName": "contracts/stringConcat.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "emoticon"
+      ]
+    }
+  }
+}
